@@ -12,5 +12,5 @@
 Your GitHub repository should follow this format:
 
 ```bash
-Project-Title-2210992266
+Internship Portal Web Application-2210992266
 ```
