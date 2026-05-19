@@ -6,11 +6,6 @@
 
 ---
 
-## GitHub Repository Instructions
-
-### Repository Naming Format
-Your GitHub repository should follow this format:
-
 ```bash
 Internship Portal Web Application-2210992266
 ```
